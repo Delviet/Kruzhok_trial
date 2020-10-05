@@ -7,3 +7,4 @@ torch
 Pillow
 tqdm
 matplotlib
+pyyaml
